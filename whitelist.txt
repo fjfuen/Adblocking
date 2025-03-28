@@ -125,3 +125,4 @@
 Grammerly
 @@||grammarly.io
 @@||grammarly.com
+@@||*.grammarly.com
