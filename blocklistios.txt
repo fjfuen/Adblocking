@@ -219,6 +219,10 @@
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 
+! --- sportsurge
+||stake.us^
+||fubo.tv^
+
 *$3p,domain=d3ward.github.io
 /pagead.js$domain=d3ward.github.io
 @@*$redirect-rule,domain=d3ward.github.io
