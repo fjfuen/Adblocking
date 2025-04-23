@@ -107,6 +107,7 @@
 ! --- Facebook
 ||pixel.facebook.com^
 ||an.facebook.com^
+||graph.facebook.com^
 
 ! --- Twitter
 ||static.ads-twitter.com^
