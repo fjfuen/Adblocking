@@ -108,6 +108,8 @@
 ||pixel.facebook.com^
 ||an.facebook.com^
 ||graph.facebook.com^
+||facebook.com
+||instagram.com
 
 ! --- Twitter
 ||static.ads-twitter.com^
